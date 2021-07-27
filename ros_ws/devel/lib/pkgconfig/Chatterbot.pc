@@ -1,0 +1,1 @@
+/home/madhav/ROS_WORKSPACES/ros_ws/devel/.private/Chatterbot/lib/pkgconfig/Chatterbot.pc
